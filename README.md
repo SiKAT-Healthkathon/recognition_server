@@ -41,6 +41,7 @@ Sistem pengenalan wajah yang diintegrasikan dengan notifikasi berbasis GPS untuk
 This project using some technologies :
 
 - Flutter 3.24.4 with Dart 3.5.4
+- Next 15 with Typescript
 - Web Socket
 - Supabase
 - Python Face Recognition
